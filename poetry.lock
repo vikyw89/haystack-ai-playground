@@ -151,6 +151,17 @@ files = [
 ]
 
 [[package]]
+name = "boilerpy3"
+version = "1.0.7"
+description = "Python port of Boilerpipe, for HTML boilerplate removal and text extraction"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "boilerpy3-1.0.7-py3-none-any.whl", hash = "sha256:fbfba91745606965400204d26852283ddf90235ab30afe9904de20051556a523"},
+    {file = "boilerpy3-1.0.7.tar.gz", hash = "sha256:a9fede212f80a36dbc7d4f93e35d8636911cb6b37085a3230557d16ad0f076c8"},
+]
+
+[[package]]
 name = "certifi"
 version = "2023.11.17"
 description = "Python package for providing Mozilla's CA Bundle."
@@ -1089,4 +1100,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "6875a5eaf695a831eca340b229ea8cf87bf2123e8894e7550aceb3a4b532a8bf"
+content-hash = "690e2951a72333d1bea2bf7261a2ba9dff47c25cd869322ed4e5e57defb08ba3"

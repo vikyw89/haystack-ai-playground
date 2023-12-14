@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 haystack-ai = "^2.0.0b2"
 python-dotenv = "^1.0.0"
+boilerpy3 = "^1.0.7"
 
 
 [build-system]

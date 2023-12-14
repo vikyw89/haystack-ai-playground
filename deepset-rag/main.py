@@ -41,7 +41,7 @@ document_store.write_documents(
         Document(content="My name is Giorgio and I live in Rome."),
     ]
 )
-
+print(document_store)
 rag_pipeline.draw("rag_pipeline.png")
 
 question = "Who lives in Paris?"
